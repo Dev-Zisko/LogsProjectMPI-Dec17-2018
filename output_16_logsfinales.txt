@@ -1,0 +1,297 @@
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 1 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 2 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 3 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 4 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 5 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 6 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 7 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 8 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 9 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 10 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 11 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 12 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 13 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 14 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 15 ES: 155 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#######################################################
+#                     METRICAS                        #
+#######################################################
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 PAISES CON MAS ATAQUES            #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- Brazil - Promedio de Ataques: 57424 - Porcentaje: 30.56%
+2.- Russia - Promedio de Ataques: 17316 - Porcentaje: 9.22%
+3.- United States - Promedio de Ataques: 16712 - Porcentaje: 8.89%
+4.- Indonesia - Promedio de Ataques: 13666 - Porcentaje: 7.27%
+5.- Iran - Promedio de Ataques: 6700 - Porcentaje: 3.57%
+6.- India - Promedio de Ataques: 5500 - Porcentaje: 2.93%
+7.- Poland - Promedio de Ataques: 4804 - Porcentaje: 2.56%
+8.- Bangladesh - Promedio de Ataques: 3793 - Porcentaje: 2.02%
+9.- Venezuela - Promedio de Ataques: 3480 - Porcentaje: 1.85%
+10.- Argentina - Promedio de Ataques: 3250 - Porcentaje: 1.73%
+11.- Republic of Korea - Promedio de Ataques: 3155 - Porcentaje: 1.68%
+12.- Czechia - Promedio de Ataques: 3072 - Porcentaje: 1.63%
+13.- Spain - Promedio de Ataques: 2753 - Porcentaje: 1.47%
+14.- Ukraine - Promedio de Ataques: 2626 - Porcentaje: 1.4%
+15.- Bulgaria - Promedio de Ataques: 2408 - Porcentaje: 1.28%
+16.- Colombia - Promedio de Ataques: 2211 - Porcentaje: 1.18%
+17.- Serbia - Promedio de Ataques: 2180 - Porcentaje: 1.16%
+18.- South Africa - Promedio de Ataques: 1991 - Porcentaje: 1.06%
+19.- Albania - Promedio de Ataques: 1841 - Porcentaje: 0.98%
+20.- Italy - Promedio de Ataques: 1829 - Porcentaje: 0.97%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 CIUDADES CON MAS ATAQUES          #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- Iran - Promedio de Ataques: 6541 - Porcentaje: 3.48%
+2.- Jakarta - Promedio de Ataques: 5050 - Porcentaje: 2.69%
+3.- Cary - Promedio de Ataques: 4444 - Porcentaje: 2.37%
+4.- Brazil - Promedio de Ataques: 4420 - Porcentaje: 2.35%
+5.- Indonesia - Promedio de Ataques: 4351 - Porcentaje: 2.32%
+6.- Moscow - Promedio de Ataques: 3180 - Porcentaje: 1.69%
+7.- Russia - Promedio de Ataques: 3164 - Porcentaje: 1.68%
+8.- Caracas - Promedio de Ataques: 2263 - Porcentaje: 1.2%
+9.- Dhaka - Promedio de Ataques: 1984 - Porcentaje: 1.06%
+10.- Republic of Korea - Promedio de Ataques: 1644 - Porcentaje: 0.87%
+11.- United States - Promedio de Ataques: 1606 - Porcentaje: 0.85%
+12.- São Paulo - Promedio de Ataques: 1233 - Porcentaje: 0.66%
+13.- Bangladesh - Promedio de Ataques: 1133 - Porcentaje: 0.6%
+14.- localhost - Promedio de Ataques: 1126 - Porcentaje: 0.6%
+15.- Rio de Janeiro - Promedio de Ataques: 1124 - Porcentaje: 0.6%
+16.- Albania - Promedio de Ataques: 1083 - Porcentaje: 0.58%
+17.- Ribeirão Preto - Promedio de Ataques: 957 - Porcentaje: 0.51%
+18.- Charlotte - Promedio de Ataques: 871 - Porcentaje: 0.46%
+19.- Bengaluru - Promedio de Ataques: 863 - Porcentaje: 0.46%
+20.- India - Promedio de Ataques: 861 - Porcentaje: 0.46%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 IPS MAS ATACADAS                  #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- 98.122.152.110 - Promedio de Ataques: 4434 - Porcentaje: 2.37%
+2.- 200.2.15.26 - Promedio de Ataques: 816 - Porcentaje: 0.44%
+3.- 172.58.152.107 - Promedio de Ataques: 304 - Porcentaje: 0.16%
+4.- 84.236.142.10 - Promedio de Ataques: 288 - Porcentaje: 0.15%
+5.- 172.58.155.29 - Promedio de Ataques: 215 - Porcentaje: 0.12%
+6.- 200.2.15.122 - Promedio de Ataques: 194 - Porcentaje: 0.1%
+7.- 172.58.158.199 - Promedio de Ataques: 185 - Porcentaje: 0.1%
+8.- 200.2.15.239 - Promedio de Ataques: 185 - Porcentaje: 0.1%
+9.- 177.152.52.14 - Promedio de Ataques: 177 - Porcentaje: 0.09%
+10.- 177.74.184.238 - Promedio de Ataques: 166 - Porcentaje: 0.09%
+11.- 172.58.152.175 - Promedio de Ataques: 133 - Porcentaje: 0.07%
+12.- 177.124.77.243 - Promedio de Ataques: 130 - Porcentaje: 0.07%
+13.- 172.58.155.35 - Promedio de Ataques: 117 - Porcentaje: 0.06%
+14.- 167.250.68.1 - Promedio de Ataques: 116 - Porcentaje: 0.06%
+15.- 177.74.184.254 - Promedio de Ataques: 116 - Porcentaje: 0.06%
+16.- 200.2.15.138 - Promedio de Ataques: 114 - Porcentaje: 0.06%
+17.- 189.89.24.201 - Promedio de Ataques: 106 - Porcentaje: 0.06%
+18.- 191.102.63.1 - Promedio de Ataques: 102 - Porcentaje: 0.05%
+19.- 172.58.155.151 - Promedio de Ataques: 100 - Porcentaje: 0.05%
+20.- 172.58.155.185 - Promedio de Ataques: 93 - Porcentaje: 0.05%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 HORAS MAS ATACADAS                #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- 11 - Promedio de Ataques: 9719 - Porcentaje: 5.17%
+2.- 12 - Promedio de Ataques: 9676 - Porcentaje: 5.15%
+3.- 10 - Promedio de Ataques: 9571 - Porcentaje: 5.09%
+4.- 17 - Promedio de Ataques: 9560 - Porcentaje: 5.09%
+5.- 15 - Promedio de Ataques: 9549 - Porcentaje: 5.08%
+6.- 18 - Promedio de Ataques: 9519 - Porcentaje: 5.07%
+7.- 16 - Promedio de Ataques: 9515 - Porcentaje: 5.06%
+8.- 13 - Promedio de Ataques: 8718 - Porcentaje: 4.64%
+9.- 14 - Promedio de Ataques: 8664 - Porcentaje: 4.61%
+10.- 19 - Promedio de Ataques: 7719 - Porcentaje: 4.11%
+11.- 09 - Promedio de Ataques: 7715 - Porcentaje: 4.11%
+12.- 04 - Promedio de Ataques: 7244 - Porcentaje: 3.86%
+13.- 05 - Promedio de Ataques: 7156 - Porcentaje: 3.81%
+14.- 08 - Promedio de Ataques: 7025 - Porcentaje: 3.74%
+15.- 07 - Promedio de Ataques: 6972 - Porcentaje: 3.71%
+16.- 01 - Promedio de Ataques: 6864 - Porcentaje: 3.65%
+17.- 20 - Promedio de Ataques: 6814 - Porcentaje: 3.63%
+18.- 06 - Promedio de Ataques: 6806 - Porcentaje: 3.62%
+19.- 21 - Promedio de Ataques: 6674 - Porcentaje: 3.55%
+20.- 22 - Promedio de Ataques: 6572 - Porcentaje: 3.5%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 CUENTAS MAS ATACADAS              #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- greedshawjm@ucab.edu.ve - Promedio de Ataques: 6157 - Porcentaje: 3.28%
+2.- nboydonqy@ucab.edu.ve - Promedio de Ataques: 2684 - Porcentaje: 1.43%
+3.- mariaj.carvajal@itw.com.ve - Promedio de Ataques: 1134 - Porcentaje: 0.6%
+4.- wcrallanoy_23@ucab.edu.ve - Promedio de Ataques: 1106 - Porcentaje: 0.59%
+5.- adomicanen_30@ucab.edu.ve - Promedio de Ataques: 912 - Porcentaje: 0.49%
+6.- wweed57@ucab.edu.ve - Promedio de Ataques: 906 - Porcentaje: 0.48%
+7.- bsurcomb6m@ucab.edu.ve - Promedio de Ataques: 905 - Porcentaje: 0.48%
+8.- kdellcasa1j@ucab.edu.ve - Promedio de Ataques: 903 - Porcentaje: 0.48%
+9.- mcarobj@ucab.edu.ve - Promedio de Ataques: 900 - Porcentaje: 0.48%
+10.- vfulcher4a@ucab.edu.ve - Promedio de Ataques: 899 - Porcentaje: 0.48%
+11.- aalbistonf@ucab.edu.ve - Promedio de Ataques: 895 - Porcentaje: 0.48%
+12.- crappaho@ucab.edu.ve - Promedio de Ataques: 894 - Porcentaje: 0.48%
+13.- bdiclaudio17@ucab.edu.ve - Promedio de Ataques: 893 - Porcentaje: 0.48%
+14.- mbockinn0_24@ucab.edu.ve - Promedio de Ataques: 891 - Porcentaje: 0.47%
+15.- gtebbitju@ucab.edu.ve - Promedio de Ataques: 891 - Porcentaje: 0.47%
+16.- aharriskineo3_29@ucab.edu.ve - Promedio de Ataques: 890 - Porcentaje: 0.47%
+17.- plaurentc8@ucab.edu.ve - Promedio de Ataques: 889 - Porcentaje: 0.47%
+18.- mpendleburyit_23@ucab.edu.ve - Promedio de Ataques: 889 - Porcentaje: 0.47%
+19.- ecourtenayp9_29@ucab.edu.ve - Promedio de Ataques: 889 - Porcentaje: 0.47%
+20.- rfrancescuzzid0@ucab.edu.ve - Promedio de Ataques: 886 - Porcentaje: 0.47%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP PROTOCOLOS MAS ATACADOS              #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- imap - Promedio de Ataques: 186564 - Porcentaje: 99.29%
+2.- soap - Promedio de Ataques: 1120 - Porcentaje: 0.6%
+3.- pop3 - Promedio de Ataques: 210 - Porcentaje: 0.11%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            ATAQUES DESDE IP DE LOCALHOST            #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- 192.168.15.15 - Promedio de Ataques: 1120 - Porcentaje: 99.47%
+2.- 192.168.151.61 - Promedio de Ataques: 6 - Porcentaje: 0.53%
+########################################################
+#CADA 60
+ MINUTOS SE ENCONTRARON UN TOTAL DE: 961 BLOQUES DE ATAQUE.#
+########################################################
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 PAISES CON MAS ATAQUES            #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- Venezuela - Promedio de Ataques: 392 - Porcentaje: 35.9%
+2.- United States - Promedio de Ataques: 165 - Porcentaje: 15.11%
+3.- Brazil - Promedio de Ataques: 147 - Porcentaje: 13.46%
+4.- Indonesia - Promedio de Ataques: 35 - Porcentaje: 3.21%
+5.- Russia - Promedio de Ataques: 33 - Porcentaje: 3.02%
+6.- Iran - Promedio de Ataques: 20 - Porcentaje: 1.83%
+7.- India - Promedio de Ataques: 20 - Porcentaje: 1.83%
+8.- Poland - Promedio de Ataques: 14 - Porcentaje: 1.28%
+9.- Ukraine - Promedio de Ataques: 10 - Porcentaje: 0.92%
+10.- Albania - Promedio de Ataques: 10 - Porcentaje: 0.92%
+11.- Republic of Korea - Promedio de Ataques: 10 - Porcentaje: 0.92%
+12.- Bulgaria - Promedio de Ataques: 9 - Porcentaje: 0.82%
+13.- Spain - Promedio de Ataques: 9 - Porcentaje: 0.82%
+14.- Argentina - Promedio de Ataques: 9 - Porcentaje: 0.82%
+15.- Bangladesh - Promedio de Ataques: 8 - Porcentaje: 0.73%
+16.- Czechia - Promedio de Ataques: 7 - Porcentaje: 0.64%
+17.- Colombia - Promedio de Ataques: 6 - Porcentaje: 0.55%
+18.- South Africa - Promedio de Ataques: 6 - Porcentaje: 0.55%
+19.- Philippines - Promedio de Ataques: 6 - Porcentaje: 0.55%
+20.- United Kingdom - Promedio de Ataques: 5 - Porcentaje: 0.46%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 CIUDADES CON MAS ATAQUES          #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- Caracas - Promedio de Ataques: 372 - Porcentaje: 8.92%
+2.- Cary - Promedio de Ataques: 83 - Porcentaje: 1.99%
+3.- Charlotte - Promedio de Ataques: 25 - Porcentaje: 0.6%
+4.- Iran - Promedio de Ataques: 20 - Porcentaje: 0.48%
+5.- United States - Promedio de Ataques: 19 - Porcentaje: 0.46%
+6.- Jakarta - Promedio de Ataques: 19 - Porcentaje: 0.46%
+7.- Brazil - Promedio de Ataques: 17 - Porcentaje: 0.41%
+8.- Valencia - Promedio de Ataques: 16 - Porcentaje: 0.38%
+9.- Russia - Promedio de Ataques: 12 - Porcentaje: 0.29%
+10.- Moscow - Promedio de Ataques: 8 - Porcentaje: 0.19%
+11.- Indonesia - Promedio de Ataques: 7 - Porcentaje: 0.17%
+12.- Albania - Promedio de Ataques: 6 - Porcentaje: 0.14%
+13.- Venezuela - Promedio de Ataques: 6 - Porcentaje: 0.14%
+14.- India - Promedio de Ataques: 6 - Porcentaje: 0.14%
+15.- Republic of Korea - Promedio de Ataques: 6 - Porcentaje: 0.14%
+16.- Tirana - Promedio de Ataques: 5 - Porcentaje: 0.12%
+17.- Argentina - Promedio de Ataques: 5 - Porcentaje: 0.12%
+18.- Cheyenne - Promedio de Ataques: 4 - Porcentaje: 0.1%
+19.- Riga - Promedio de Ataques: 4 - Porcentaje: 0.1%
+20.- Duque de Caxias - Promedio de Ataques: 4 - Porcentaje: 0.1%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 IPS MAS ATACADAS                  #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- 200.2.15.26 - Promedio de Ataques: 345 - Porcentaje: 2.52%
+2.- 98.122.152.110 - Promedio de Ataques: 83 - Porcentaje: 0.61%
+3.- 172.58.158.199 - Promedio de Ataques: 13 - Porcentaje: 0.09%
+4.- 200.2.15.239 - Promedio de Ataques: 13 - Porcentaje: 0.09%
+5.- 172.58.152.107 - Promedio de Ataques: 9 - Porcentaje: 0.07%
+6.- 186.167.244.230 - Promedio de Ataques: 5 - Porcentaje: 0.04%
+7.- 172.58.155.151 - Promedio de Ataques: 5 - Porcentaje: 0.04%
+8.- 172.58.155.185 - Promedio de Ataques: 5 - Porcentaje: 0.04%
+9.- 172.58.155.35 - Promedio de Ataques: 5 - Porcentaje: 0.04%
+10.- 172.58.153.171 - Promedio de Ataques: 4 - Porcentaje: 0.03%
+11.- 186.167.244.138 - Promedio de Ataques: 4 - Porcentaje: 0.03%
+12.- 200.2.15.138 - Promedio de Ataques: 4 - Porcentaje: 0.03%
+13.- 132.245.73.253 - Promedio de Ataques: 4 - Porcentaje: 0.03%
+14.- 186.167.242.19 - Promedio de Ataques: 3 - Porcentaje: 0.02%
+15.- 172.56.4.20 - Promedio de Ataques: 3 - Porcentaje: 0.02%
+16.- 186.167.242.255 - Promedio de Ataques: 3 - Porcentaje: 0.02%
+17.- 186.167.243.155 - Promedio de Ataques: 3 - Porcentaje: 0.02%
+18.- 186.167.244.64 - Promedio de Ataques: 3 - Porcentaje: 0.02%
+19.- 186.167.249.25 - Promedio de Ataques: 3 - Porcentaje: 0.02%
+20.- 186.167.249.15 - Promedio de Ataques: 3 - Porcentaje: 0.02%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 HORAS MAS ATACADAS                #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- 11 - Promedio de Ataques: 81 - Porcentaje: 8.22%
+2.- 12 - Promedio de Ataques: 73 - Porcentaje: 7.41%
+3.- 17 - Promedio de Ataques: 62 - Porcentaje: 6.29%
+4.- 13 - Promedio de Ataques: 61 - Porcentaje: 6.19%
+5.- 15 - Promedio de Ataques: 60 - Porcentaje: 6.09%
+6.- 08 - Promedio de Ataques: 59 - Porcentaje: 5.99%
+7.- 21 - Promedio de Ataques: 48 - Porcentaje: 4.87%
+8.- 16 - Promedio de Ataques: 46 - Porcentaje: 4.67%
+9.- 03 - Promedio de Ataques: 45 - Porcentaje: 4.57%
+10.- 22 - Promedio de Ataques: 44 - Porcentaje: 4.47%
+11.- 14 - Promedio de Ataques: 44 - Porcentaje: 4.47%
+12.- 01 - Promedio de Ataques: 38 - Porcentaje: 3.86%
+13.- 09 - Promedio de Ataques: 35 - Porcentaje: 3.55%
+14.- 07 - Promedio de Ataques: 35 - Porcentaje: 3.55%
+15.- 18 - Promedio de Ataques: 34 - Porcentaje: 3.45%
+16.- 06 - Promedio de Ataques: 31 - Porcentaje: 3.15%
+17.- 05 - Promedio de Ataques: 31 - Porcentaje: 3.15%
+18.- 20 - Promedio de Ataques: 30 - Porcentaje: 3.05%
+19.- 19 - Promedio de Ataques: 30 - Porcentaje: 3.05%
+20.- 10 - Promedio de Ataques: 23 - Porcentaje: 2.34%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+#            TOP 20 CUENTAS MAS ATACADAS              #
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+1.- apoytressf9_29@ucab.edu.ve - Promedio de Ataques: 346 - Porcentaje: 24.52%
+2.- greedshawjm@ucab.edu.ve - Promedio de Ataques: 124 - Porcentaje: 8.79%
+3.- nboydonqy@ucab.edu.ve - Promedio de Ataques: 34 - Porcentaje: 2.41%
+4.- mariaj.carvajal@itw.com.ve - Promedio de Ataques: 22 - Porcentaje: 1.56%
+5.- sgeddes7j@ucab.edu.ve - Promedio de Ataques: 9 - Porcentaje: 0.64%
+6.- efruenqq@ucab.edu.ve - Promedio de Ataques: 8 - Porcentaje: 0.57%
+7.- estennersgm_27@ucab.edu.ve - Promedio de Ataques: 8 - Porcentaje: 0.57%
+8.- ksalvage9s@ucab.edu.ve - Promedio de Ataques: 8 - Porcentaje: 0.57%
+9.- azepline0_29@ucab.edu.ve - Promedio de Ataques: 7 - Porcentaje: 0.5%
+10.- csnugglz@ucab.edu.ve - Promedio de Ataques: 7 - Porcentaje: 0.5%
+11.- plaurentc8@ucab.edu.ve - Promedio de Ataques: 7 - Porcentaje: 0.5%
+12.- rfrancescuzzid0@ucab.edu.ve - Promedio de Ataques: 7 - Porcentaje: 0.5%
+13.- garchdecknemu_20@ucab.edu.ve - Promedio de Ataques: 7 - Porcentaje: 0.5%
+14.- imaciloryo0_21@ucab.edu.ve - Promedio de Ataques: 6 - Porcentaje: 0.43%
+15.- wweed57@ucab.edu.ve - Promedio de Ataques: 6 - Porcentaje: 0.43%
+16.- sleathwoodhr@ucab.edu.ve - Promedio de Ataques: 6 - Porcentaje: 0.43%
+17.- kskirvenpy@ucab.edu.ve - Promedio de Ataques: 6 - Porcentaje: 0.43%
+18.- eroskams2r@ucab.edu.ve - Promedio de Ataques: 6 - Porcentaje: 0.43%
+19.- smachenck@ucab.edu.ve - Promedio de Ataques: 6 - Porcentaje: 0.43%
+20.- vfulcher4a@ucab.edu.ve - Promedio de Ataques: 6 - Porcentaje: 0.43%
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+EL TIEMPO DE EJECUCION PARA EL PROCESO 0 ES: 596 SEGS.
+#+-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+-++-+-+-+-+#
+
